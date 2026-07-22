@@ -1,0 +1,12 @@
+{
+   project =
+   {
+      description="A multi-select option picker with bitmask output";
+      domain="github";
+      name="mulle-option";
+      username="mulle-sde";
+      reponame="mulle-option";
+      homepage="https://github.com/mulle-sde/mulle-option";
+      license="BSD-3-Clause"
+   };
+}
